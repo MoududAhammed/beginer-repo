@@ -1,0 +1,31 @@
+#welcom{
+    color: white;
+    background-color: black;
+    border: yellow solid 20px;
+    border-radius: 15px;
+    margin: 100px;
+    text-align: center;
+    height: 100px;
+    width: 95%;
+    padding-top: 20px;
+}
+.blog{
+    color: white;
+    background-color: yellowgreen;
+    border: blue solid 20px;
+    border-radius: 15px;
+    margin: 50px;
+    text-align: justify;
+    height: 500px;
+    width: 100%;
+}
+.hot{
+    color: white;
+    background-color: yellowgreen;
+    border: blue solid 20px;
+    border-radius: 15px;
+    margin: 50px;
+    text-align: justify;
+    height: 500px;
+    width: 100%; 
+}
